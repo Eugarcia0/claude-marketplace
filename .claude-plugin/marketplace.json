@@ -1,3 +1,16 @@
 {
-  "plugins": []
+  "plugins": [
+    {
+      "name": "recruitment-request-matcher",
+      "source": "./plugins/recruitment-request-matcher",
+      "description": "Automatiza el matching de candidatos para un Request abierto en Recruitment Singular: filtra, rankea por fit real, vincula el Top 5 y notifica al Chapter Lead en Airtable.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Singular Agency",
+        "email": "as@singularagency.co"
+      },
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
 }
