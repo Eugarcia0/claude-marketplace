@@ -1,0 +1,11 @@
+{
+  "name": "recruitment-request-matcher",
+  "version": "0.1.0",
+  "description": "Automatiza el matching de candidatos para un Request abierto en Recruitment Singular: filtra, rankea por fit real, vincula el Top 5 y notifica al Chapter Lead en Airtable.",
+  "author": {
+    "name": "Singular Agency",
+    "email": "as@singularagency.co"
+  },
+  "repository": "https://github.com/SingularAgency/claude-marketplace",
+  "license": "MIT"
+}
